@@ -1,0 +1,62 @@
+[
+  {
+    "source": "召會",
+    "english": "church",
+    "category": "church-life",
+    "note": "主恢復中固定用語；避免依一般宗派語境過度改寫。"
+  },
+  {
+    "source": "那靈",
+    "english": "the Spirit",
+    "category": "biblical",
+    "note": "保留恢復本與主恢復常用語感。"
+  },
+  {
+    "source": "神的經綸",
+    "english": "God's economy",
+    "category": "ministry",
+    "note": "不可翻成一般經濟學或經濟制度的意思。"
+  },
+  {
+    "source": "申言",
+    "english": "prophesying",
+    "category": "church-life",
+    "note": "在召會聚會語境中，指為主說話並說出主。"
+  },
+  {
+    "source": "晨興",
+    "english": "morning revival",
+    "category": "church-life",
+    "note": "用於晨興聖言、晨晨復興等語境。"
+  },
+  {
+    "source": "晨興聖言",
+    "english": "Holy Word for Morning Revival",
+    "category": "publication",
+    "note": "書名用語，優先保留固定譯名。"
+  },
+  {
+    "source": "基督的身體",
+    "english": "the Body of Christ",
+    "category": "biblical",
+    "note": "屬靈專有用語。"
+  },
+  {
+    "source": "調和的靈",
+    "english": "the mingled spirit",
+    "category": "ministry",
+    "note": "指神的靈與人的靈調和之語境。"
+  },
+  {
+    "source": "生命的長大",
+    "english": "the growth in life",
+    "category": "ministry",
+    "note": "避免僅按一般生物成長語義翻譯。"
+  },
+  {
+    "source": "建造基督的身體",
+    "english": "build up the Body of Christ",
+    "category": "ministry",
+    "note": "主恢復常用表達。"
+  }
+]
