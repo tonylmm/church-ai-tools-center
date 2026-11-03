@@ -1,11 +1,17 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  async rewrites() {
+  async redirects() {
     return [
       {
         source: "/skill-guide",
-        destination: "/skill-guide/index.html",
+        destination: "https://church-translation-skill-guide.vercel.app/",
+        permanent: true,
+      },
+      {
+        source: "/skill-guide/:path*",
+        destination: "https://church-translation-skill-guide.vercel.app/:path*",
+        permanent: true,
       },
     ];
   },

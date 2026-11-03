@@ -254,7 +254,10 @@ ${sourceText}`;
             <a href="#iphone" className="hover:text-blue-700">
               iPhone教學
             </a>
-            <a href="/skill-guide" className="hover:text-blue-700">
+            <a
+              href="https://church-translation-skill-guide.vercel.app/"
+              className="hover:text-blue-700"
+            >
               Skill 安裝指南
             </a>
           </nav>
@@ -297,7 +300,7 @@ ${sourceText}`;
                 查看翻譯助手
               </a>
               <a
-                href="/skill-guide"
+                href="https://church-translation-skill-guide.vercel.app/"
                 className="inline-flex items-center justify-center rounded-2xl border border-blue-200 bg-blue-50 px-6 py-3 font-bold text-blue-800 transition hover:bg-blue-100"
               >
                 Skill 安裝指南
