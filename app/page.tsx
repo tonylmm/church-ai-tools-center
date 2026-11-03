@@ -254,6 +254,9 @@ ${sourceText}`;
             <a href="#iphone" className="hover:text-blue-700">
               iPhone教學
             </a>
+            <a href="/skill-guide" className="hover:text-blue-700">
+              Skill 安裝指南
+            </a>
           </nav>
         </div>
       </header>
@@ -292,6 +295,12 @@ ${sourceText}`;
                 className="inline-flex items-center justify-center rounded-2xl border border-slate-300 bg-white px-6 py-3 font-bold text-slate-800 shadow-sm transition hover:-translate-y-0.5 hover:border-blue-300 hover:text-blue-700"
               >
                 查看翻譯助手
+              </a>
+              <a
+                href="/skill-guide"
+                className="inline-flex items-center justify-center rounded-2xl border border-blue-200 bg-blue-50 px-6 py-3 font-bold text-blue-800 transition hover:bg-blue-100"
+              >
+                Skill 安裝指南
               </a>
             </div>
 
